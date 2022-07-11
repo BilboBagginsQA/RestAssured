@@ -49,3 +49,26 @@ You can find the ReportNG reports in the following directory of the Project.
 
 ** You can also run the testng suite XML > which can been configured to run specific classes/tests.
 
+**TEST DETAILS:**
+
+1)**BaseTest **
+ - Before Test annotation used to set token before running test methods
+2)**BookingTest**
+ - CreateBooking Test
+ - Get Booking Test
+ - Update BookingTest
+ - Delete Booking Test
+
+3)**Multiple Booking Test**
+ - Creation of 'n' Bookings and then validating them via get ALL bookings (list response)
+
+4)**Negative Tests**
+ - Negative test for Booking with blank name details and negative amount (FAILS)
+ - Negative test to access booking which doesnt exist
+ 
+5) **PartialUpdateVerification** 
+ - Update only certain fields in existing booking using parametrised constructor of Booking pojo.
+
+-thanks.
+
+ 
