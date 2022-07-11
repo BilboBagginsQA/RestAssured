@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="restful-booker-suite">
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+	<test name="restful-booker-test">
+		<classes>
+			<class name="api.tests.BookingTest"/>
+			<class name="api.tests.MultipleBookingTests"/>
+			<class name="api.tests.NegativeTests"/>
+			<class name="api.tests.PartialUpdateVerification"/>
+		</classes>
+	</test>
+</suite>

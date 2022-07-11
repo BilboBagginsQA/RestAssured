@@ -1,0 +1,12 @@
+2022-07-10 20:24:03,348 - [INFO] - [env.ApplicationProperties] - No Port is specified in the properties file...
+2022-07-10 20:24:03,393 - [INFO] - [org.testng.log4testng.Logger] - [TestNG] Running:
+  C:\workspace\restful-booker-test-main\src\test\resources\suites\apitest.xml
+
+2022-07-10 20:39:15,137 - [INFO] - [env.ApplicationProperties] - No Port is specified in the properties file...
+2022-07-10 20:39:15,183 - [INFO] - [org.testng.log4testng.Logger] - [TestNG] Running:
+  C:\workspace\restful-booker-test-main\src\test\resources\suites\apitest.xml
+
+2022-07-10 20:59:14,442 - [INFO] - [env.ApplicationProperties] - No Port is specified in the properties file...
+2022-07-10 20:59:14,499 - [INFO] - [org.testng.log4testng.Logger] - [TestNG] Running:
+  C:\workspace\restful-booker-test-main\src\test\resources\suites\apitest.xml
+

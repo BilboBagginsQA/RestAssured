@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="restful-booker-test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="12.164">
+  <properties />
+  
+  
+            <testcase name="updateBooking" time="4.092" classname="api.tests.BookingTest" />
+                <testcase name="createBooking" time="1.775" classname="api.tests.BookingTest" />
+                <testcase name="getBooking" time="2.645" classname="api.tests.BookingTest" />
+                <testcase name="deleteBooking" time="3.652" classname="api.tests.BookingTest" />
+      
+</testsuite>
