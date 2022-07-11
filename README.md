@@ -46,3 +46,6 @@ You can find the ReportNG reports in the following directory of the Project.
 
 /surefire-reports/index.html - // for TestNG reports
 /target/surefire-reports/html/index.html - // for ReportNG reports
+
+** You can also run the testng suite XML > which can been configured to run specific classes/tests.
+
